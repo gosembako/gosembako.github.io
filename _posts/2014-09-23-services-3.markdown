@@ -1,0 +1,11 @@
+---
+layout: default
+img: colok.png
+category: Services
+title: Lampu Colok<br>
+description: |
+---
+Tradisi Lampu Colok dalam rangka menyambut malam takbir dan lebaran di Bengkalis – Riau berlangsung meriah. 
+Selain sudah menjadi tradisi, lampu colok ini diperlombakan antar kampung dan mendapat dukungan penuh dari pemerintah setempat.
+Pemasangan lampu colok ini sudah menjadi tradisi setiap tahun diakhir bulan ramadhan dalam menyambut malam takbir dan lebaran.
+ Lampu colok ini terbuat dari kaleng bekas yang diberi sumbu dan diisi minyak tanah dan kemudian disusun berupa kubah–kubah masjid dan hiasan kaligrafi.

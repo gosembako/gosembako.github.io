@@ -1,0 +1,12 @@
+---
+layout: default
+img: zapin.png
+category: Services
+title:  Tarian Zapin Melayu
+description: |
+---
+  Zapin adalah suatu tarian khas adat melayu bengkalis, dan juga melayu-melayu lainnya yang tersebar di seluruh dunia. 
+  zapin merupakan gerakan yang khas, yang gemulai, yang rancak atau yang patah-patah, meski sangat berdeda dengan breakdance.
+  zapin bagi masyarakat Bengkalis, bahkan juga bagi masyarakat pesisir semenanjung melayu adalah denyut nadi Dinamika kehidupan mereka.
+  maka, bagi masyarakat bengkalis, tidak mengenal zapin serta dinamika nya adalah sesuatu yang sangat keterlaluan.
+  Tarian zapin dari dahulu sudah lama dikenal oleh dunia. tarian zapin juga sering dipertandingkan dalam kesenian melayu. HEBATNYA NEGRI KARNA BUDAYANYA.

@@ -1,10 +1,10 @@
 ---
 layout: default
-img: pr2.jpg
+img: pr3.jpg
 category: Services
 title: Cara Pemesanan
 description: |
 ---
 Untuk Pemesanan paket Sembako Dapat dilihat di Facebook Dan Instagram Resmi
 Go Sembako Atau Dapat Menghubungi Pihak Management Di No Hp 085374489932.
-Dan Anda Juga Dapat Datang langsung Ke Alamat Go Sembako di Jl.Lobak Pekanbaru
+Dan Anda Juga Dapat Datang langsung Ke Alamat Go Sembako di Jl.Kubang Pekanbaru
